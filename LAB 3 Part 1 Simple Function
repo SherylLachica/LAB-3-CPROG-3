@@ -1,8 +1,8 @@
-def personal_details():
-    print("Name: John Doe")
-    print("Age: 20")
+def personal_details()
+    print("Name: Sheryl Lachica")
+    print("Age: 21")
     print("Course: Computer Science")
-    print("School: ABC University")
-    print("Location: New York")
+    print("School: TLMC University")
+    print("Location: Culasi")
 
 personal_details()
