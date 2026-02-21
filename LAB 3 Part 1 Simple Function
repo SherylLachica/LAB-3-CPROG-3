@@ -1,0 +1,8 @@
+def personal_details():
+    print("Name: John Doe")
+    print("Age: 20")
+    print("Course: Computer Science")
+    print("School: ABC University")
+    print("Location: New York")
+
+personal_details()
